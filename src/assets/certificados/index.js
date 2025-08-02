@@ -20,6 +20,7 @@ import c19 from './c19.jpg'
 import c20 from './c20.jpg'
 import c21 from './c21.jpg'
 import c22 from './c22.jpg'
+import c23 from './c23.jpg'
 
 export {
     c1,
@@ -44,4 +45,5 @@ export {
     c20,
     c21,
     c22,
+    c23,
 }

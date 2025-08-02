@@ -23,10 +23,12 @@ import {
   c20,
   c21,
   c22,
+  c23,
 } from "../assets/certificados";
 
 const CertificatesModal = ({ isOpen, onClose }) => {
   const certificates = [ //Aqui para modificar a ordem que aparece no carrocel
+    c23,
     c21,
     c22,
     c19,
