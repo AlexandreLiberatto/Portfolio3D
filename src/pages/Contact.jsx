@@ -41,10 +41,10 @@ const Contact = () => {
 
     emailjs
       .send(
-        "service_u2zw90i", // Substitua pelo seu ID de serviço
-        "template_hi985re", // Substitua pelo seu ID de template
+        "service_uy5584hggh", // Substitua pelo seu ID de serviço
+        "template_hi8854jhu", // Substitua pelo seu ID de template
         templateParams,
-        "9tXYtReILnscqjyS-" // Substitua pela sua chave pública
+        "9tXY568dsfgfd586" // Substitua pela sua chave pública
       )
       .then(
         () => {
